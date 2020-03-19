@@ -1,6 +1,7 @@
 Rencana Ke Depan
 
 - Menguasai Framework JavaScript
+- Belajar PHP
 - PKL di Software House
 - Masuk Ke Universitas
 - Bekerja Sebagai FontEnd/BackEnd Developer
